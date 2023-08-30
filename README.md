@@ -1,4 +1,5 @@
 Calculadora de IMC
+
 Descrição
 
 Este projeto é uma Calculadora de Índice de Massa Corporal (IMC) desenvolvida em Flutter. O objetivo é fornecer uma ferramenta simples e eficaz para calcular o IMC e fornecer informações sobre a categoria de peso em que o usuário se encontra.
